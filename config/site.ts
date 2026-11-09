@@ -7,7 +7,7 @@ import type { WorkspacePreferences } from "@/types/questionnaire";
  */
 export const DEFAULT_PREFERENCES: WorkspacePreferences = {
   studioName: "WEGM Studio",
-  whatsappNumber: "807354269",
+  whatsappNumber: "918073542692",
   instagramUrl: "https://www.instagram.com/wegmstudio/",
   websiteUrl: "https://wegmstudio.shop",
   contactEmail: "",
