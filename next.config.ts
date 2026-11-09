@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   images: { unoptimized: true },
   reactStrictMode: true,
+  basePath: "/wegm_questionnair",
 };
 
 export default nextConfig;
